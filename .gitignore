@@ -1,13 +1,37 @@
+# Backend
 clipmaster_backend/venv/
+__pycache__/
+*.py[cod]
+*.env
+
+# Frontend
 clipmaster_frontend/node_modules/
 clipmaster_frontend/dist/
+*.env
+
+# System files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Browsers / Cache
 .browser_data_dir/
 .npm/
 .pki/
+
+# Secrets and sensitive files
 .secrets/
+.env
+
+# Shell files
 .zshrc
 .bash_history
+
+# Git and version control
 .git/
 .nvm/
 
-
+# IDEs and editors
+.vscode/
+.idea/
+*.sublime-*
