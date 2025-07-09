@@ -1,0 +1,13 @@
+clipmaster_backend/venv/
+clipmaster_frontend/node_modules/
+clipmaster_frontend/dist/
+.browser_data_dir/
+.npm/
+.pki/
+.secrets/
+.zshrc
+.bash_history
+.git/
+.nvm/
+
+
