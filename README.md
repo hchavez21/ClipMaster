@@ -48,3 +48,5 @@ This project is licensed under the MIT License.
 ## Contact
 
 For questions or support, please open an issue on the GitHub repository.
+
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/hchavez21/ClipMaster/tree/239f1bfea8ee338724e16b71639fed0869eb824c?quickstart=1)
